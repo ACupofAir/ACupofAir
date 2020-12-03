@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently studying in SEU.
+- 🌱 I’m currently learning Python, java etc.
+- 👯 I’m looking to collaborate on Python.
