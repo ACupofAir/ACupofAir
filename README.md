@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in SEU.
 - 🌱 I’m currently learning Python, java etc.
 - 👯 I’m looking to collaborate on Python.
-- :lover: vim vscode...
+- :cupid: vim!!!
 
 :boom:
