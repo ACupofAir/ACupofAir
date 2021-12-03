@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ui&icon design.
 - 🖋️ My blog is 📎 [**HERE**](https://acupofair.github.io). 
 - 🔭 My skills
-  - [x] <img src="https://img.icons8.com/ios/50/000000/qt.png"/>qt
-  - [x] linux shell
-  - [x] spring-boot
-  - [x] mybatis
-  - [x] android   
-  - [x] vue
-  - [x] basic algorithm 
-  - [x] a little bit of ML, DL, RNN
-  - [x] basic datastructure
-  - [ ] electron
+  - [x] ![qt](https://img.shields.io/badge/verteran-qt-red)
+  - [x] ![basic datastructure](https://img.shields.io/badge/verteran-basic--datastructure-red)
+  - [x] ![linux shell](https://img.shields.io/badge/verteran-linux-red)
+  - [x] ![spring-boot](https://img.shields.io/badge/worker-sping--boot-blue)
+  - [x] ![mybatis](https://img.shields.io/badge/worker-mybatis-blue)
+  - [x] ![android](https://img.shields.io/badge/worker-android-blue) 
+  - [x] ![vue](https://img.shields.io/badge/worker-vue-blue)
+  - [x] ![basic algorithm](https://img.shields.io/badge/worker-basic--algorithm-blue) 
+  - [x] ![ML DL NN](https://img.shields.io/badge/newcomer-ML--DL--NN-green)
+  - [ ] ![electron](https://img.shields.io/badge/learner-electron-yellow)
 
 - 💻 My github stats
 
