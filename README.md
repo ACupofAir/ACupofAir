@@ -24,10 +24,21 @@ Here are some ideas to get you started:
 ```                                                               
 
 - 🔰 I maybe a full-stack developer 🤦
-- 🔭 I’m currently studying software engineer in SEU.
+- 👨‍🎓 I’m currently studying software engineer in SEU.
 - 🌱 I’m currently using arch, vim, vscode...etc.
 - 👯 I’m looking to collaborate on ui&icon design.
 - 🖋️ My blog is 📎 [**HERE**](https://acupofair.github.io). 
+- 🔭 My skills
+  - [x] <img src="https://img.icons8.com/ios/50/000000/qt.png"/>qt
+  - [x] linux shell
+  - [x] spring-boot
+  - [x] mybatis
+  - [x] android   
+  - [x] vue
+  - [x] basic algorithm 
+  - [x] a little bit of ML, DL, RNN
+  - [x] basic datastructure
+  - [ ] electron
 
 - 💻 My github stats
 
