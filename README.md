@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying software engineer in SEU.
 - 🌱 I’m currently using arch, vim, vscode...etc.
 - 👯 I’m looking to collaborate on ui&icon design.
-- 📎 My blog is [here](https://acupofair.github.io).
+- 🖋️ My blog is 📎 [**HERE**](https://acupofair.github.io). 
 
 - 💻 My github stats
 
   ![ACupofAir's GitHub stats](https://github-readme-stats.vercel.app/api?username=acupofair&show_icons=true&theme=radical)
 - 💘 My Preferred language
 
-  ![ACupofAir's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acupofair&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=radical)
+  ![ACupofAir's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acupofair&layout=compact&langs_count=10&show_icons=true&theme=radical)
 
 👊 👊 👊
