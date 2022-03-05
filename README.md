@@ -37,8 +37,8 @@ Here are some ideas to get you started:
   - [x] ![android](https://img.shields.io/badge/worker-android-blue) 
   - [x] ![vue](https://img.shields.io/badge/worker-vue-blue)
   - [x] ![basic algorithm](https://img.shields.io/badge/worker-basic--algorithm-blue) 
-  - [x] ![ML DL NN](https://img.shields.io/badge/newcomer-ML--DL--NN-green)
-  - [ ] ![electron](https://img.shields.io/badge/learner-electron-yellow)
+  - [x] ![ML DL NN](https://img.shields.io/badge/worker-ML--DL--NN-blue)
+  - [x] ![electron](https://img.shields.io/badge/learner-electron-yellow)
 
 - 💻 My github stats
 
