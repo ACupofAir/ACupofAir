@@ -29,16 +29,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ui&icon design.
 - 🖋️ My blog is 📎 [**HERE**](https://acupofair.github.io). 
 - 🔭 My skills
-  - [x] ![qt](https://img.shields.io/badge/verteran-qt-red)
-  - [x] ![basic datastructure](https://img.shields.io/badge/verteran-basic--datastructure-red)
-  - [x] ![linux shell](https://img.shields.io/badge/verteran-linux-red)
-  - [x] ![spring-boot](https://img.shields.io/badge/worker-sping--boot-blue)
-  - [x] ![mybatis](https://img.shields.io/badge/worker-mybatis-blue)
-  - [x] ![android](https://img.shields.io/badge/worker-android-blue) 
-  - [x] ![vue](https://img.shields.io/badge/worker-vue-blue)
-  - [x] ![basic algorithm](https://img.shields.io/badge/worker-basic--algorithm-blue) 
-  - [x] ![ML DL NN](https://img.shields.io/badge/worker-ML--DL--NN-blue)
-  - [x] ![electron](https://img.shields.io/badge/learner-electron-yellow)
+
+ ![qt](https://img.shields.io/badge/verteran-qt-red) ![basic datastructure](https://img.shields.io/badge/verteran-basic--datastructure-red) ![linux shell](https://img.shields.io/badge/verteran-linux-red) ![spring-boot](https://img.shields.io/badge/worker-sping--boot-blue) ![mybatis](https://img.shields.io/badge/worker-mybatis-blue) ![android](https://img.shields.io/badge/worker-android-blue)  ![vue](https://img.shields.io/badge/worker-vue-blue) ![basic algorithm](https://img.shields.io/badge/worker-basic--algorithm-blue)  ![ML DL NN](https://img.shields.io/badge/worker-ML--DL--NN-blue) ![electron](https://img.shields.io/badge/learner-electron-yellow)
 
 - 💻 My github stats
 
